@@ -97,8 +97,8 @@ Distributed systems and clean architecture are where I spend most of my time thi
     <img src="https://img.shields.io/badge/uo300047@uniovi.es-00ff9c?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Uo300047">
-    <img src="https://img.shields.io/badge/github/Uo300047-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/>
+  <a href="https://github.com/LRodriguezTorres">
+    <img src="https://img.shields.io/badge/githubLRodriguezTorres-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/>
   </a>
 </div>
 
